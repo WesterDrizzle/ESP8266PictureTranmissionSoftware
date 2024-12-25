@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ESP8266_UDP_PictureTransmission",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${command:cmake.launchTargetPath}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${command:cmake.launchTargetDirectory}",
+            "environment": [
+                {
+                    "name": "PATH",
+                    "value": "C:\\Qt\\6.7.3\\mingw_64\\bin"
+                }
+            ],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\Qt\\Tools\\mingw1120_64\\bin\\gdb.exe",
+            "visualizerFile": "c:\\Users\\Coward\\AppData\\Roaming\\Code\\User\\workspaceStorage\\bbf8f24d4d32222ec2ce37fcfc43266a\\tonka3000.qtvsctools\\qt.natvis.xml"
+        }
+    ]
+}

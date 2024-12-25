@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "qapplication": "cpp",
+        "qudpsocket": "cpp",
+        "qhostaddress": "cpp",
+        "qnetworkdatagram": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "qmainwindow": "cpp",
+        "new": "cpp",
+        "qobject": "cpp",
+        "*.tcc": "cpp",
+        "qjsonarray": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp"
+    }
+}
